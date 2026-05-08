@@ -1,0 +1,13 @@
+AUTODRIP MOD - GOTOWY JAR
+
+Pobierz plik: autodrip-1.0.0.jar
+
+Instalkacja:
+1. Win + R
+2. %appdata%\.minecraft\mods
+3. Wrzuc tam JAR
+4. Uruchom Minecraft z Fabric 1.21.4
+
+Gotowe! Mod wysyla wiadomosci z chatu na Discord.
+
+Webhook: https://discord.com/api/webhooks/1495128207622406296/RnI2mpUzDRhK2VCeUWh-oflLV1qI5D_Rhiz1_l6Qa3Bk8jTP1XWtw5KtRjLO4Hrf6lOQ
